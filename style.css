@@ -61,7 +61,7 @@ header nav ul li a:hover
     cursor: pointer;
     display: none;
 }
-/*
+
 .hero-section
 {
     width: 100%;
@@ -72,7 +72,7 @@ header nav ul li a:hover
 .hero-section::before
 {
    content: "";
-    /*background: url("/img/rainbow.gif") no-repeat center center/cover;*
+    /*background: url("/img/rainbow.gif") no-repeat center center/cover;*/
     position: absolute;
     height: 100%;
     top: 0px;
@@ -88,7 +88,7 @@ header nav ul li a:hover
 {
     margin: 214px 0px;
    /* margin-right: 583px;
-    margin-left: 260px;*
+    margin-left: 260px;*/
     text-align: center;
 }
 .hero-section .content h2
@@ -187,7 +187,7 @@ header nav ul li a:hover
     border: 2px solid crimson;
     transition: all 0.3s ease;
     text-decoration: none;
-}
+}/*
 .services
 {
     width: 99.5%;
@@ -348,7 +348,7 @@ header nav ul li a:hover
 }
 .skills-content .column-right .mysql::before{
     width: 40%;
-}
+}*/
 .menu-toggle
 {
     color: #fff;
